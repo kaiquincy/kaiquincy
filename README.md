@@ -2,12 +2,13 @@
 
 ### Tech Focus
 
-| Area | Stack / Tools |
+| Area | Tools & Frameworks |
 |------|--------------|
 | **Backend Development** | Laravel (PHP), .NET 8 (C#), SpringBoot (Java), Flask (Python), RESTful APIs |
 | **Frontend** | React + Tailwind CSS + Vite |
 | **Database & DevOps** | MySQL, MongoDB, Docker, GitHub Actions (CI/CD) |
-| **Other Skills** | JWT Authentication, Clean Architecture, Team Collaboration, Hackathon Mindset |
+| **AI / Automation** | Python, NumPy, Pandas, Scikit-learn, OpenCV, Automation Scripts |
+| **Other Skills** | Team Leadership, Clean Architecture, Team Collaboration, Hackathon Mindset |
 
 ---
 
@@ -19,11 +20,11 @@
 | **Online Career Guidance Platform (.NET 8 + React)** | End-to-end career guidance system with authentication, API services, and structured backend logic. |
 | **Laravel Web Application** | Full-stack app with Blade templating, database migrations, and initial test coverage (PHPUnit). |
 
-> Live demos & detailed documentation will be added soon. Each project contains real commit history — no tutorial/paste code.
+> Live demos & detailed documentation will be added soon.
 
 ---
 
 ### What I'm looking for
 
 I'm currently preparing to **transition into the industry as a backend/full-stack developer**.  
-I enjoy **working on backend logic, system design, scalable APIs, and solving real-world problems under time constraints** (just like hackathons).
+I enjoy **working on backend logic, system design, scalable APIs, and solving real-world problems under time constraints**.
