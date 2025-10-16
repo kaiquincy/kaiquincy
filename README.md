@@ -1,11 +1,10 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Kai%20Quincy%20—%20Full-Stack%20Developer&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=60)
 ![Link](https://aptech.fpt.edu.vn/)
 ### Achievements
-[![LinkedIn]](https://aptech.fpt.edu.vn/)
 
 - 🥈 **2x Runner-up – FPT Edu Hackathon (Category B)**  
   Built and delivered working MVPs under real hackathon pressure with a cross-functional team.  
-- 🎓 **FPT Aptech – Final Year Student (Software Engineering Track)**  
+- 🎓 **[![FPT APTECH]](https://aptech.fpt.edu.vn/) – Final Year Student (Software Engineering Track)**  
   Focused on **practical software development using modern stacks** like Laravel, .NET, Flask, React, and MySQL/PostgreSQL.
 
 ---
