@@ -1,11 +1,12 @@
-## 👋 Hi, I'm Kai Quincy (Khai Quang)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Kai%20Quincy%20—%20Full-Stack%20Developer&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=60)
+
 
 I'm a **Full-Stack Developer** currently in my final year at **FPT Aptech**, where the focus is on building real-world applications rather than academic theory.  
 I'm passionate about **backend engineering, API design, and building reliable systems with clean architecture and automation (CI/CD & containerization).**
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 - 🥈 **2x Runner-up – FPT Edu Hackathon (Category B)**  
   Built and delivered working MVPs under real hackathon pressure with a cross-functional team.  
@@ -14,7 +15,7 @@ I'm passionate about **backend engineering, API design, and building reliable sy
 
 ---
 
-### 💻 Tech Focus
+### Tech Focus
 
 | Area | Stack / Tools |
 |------|--------------|
@@ -25,7 +26,7 @@ I'm passionate about **backend engineering, API design, and building reliable sy
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |--------|------------|
@@ -37,7 +38,7 @@ I'm passionate about **backend engineering, API design, and building reliable sy
 
 ---
 
-### 🎯 What I'm looking for
+### What I'm looking for
 
 I'm currently preparing to **transition into the industry as a backend/full-stack developer**.  
 I enjoy **working on backend logic, system design, scalable APIs, and solving real-world problems under time constraints** (just like hackathons).
