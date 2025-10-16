@@ -1,11 +1,5 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Kai%20Quincy%20—%20Full-Stack%20Developer&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=60)
-
-
-I'm a **Full-Stack Developer** currently in my final year at **FPT Aptech**, where the focus is on building real-world applications rather than academic theory.  
-I'm passionate about **backend engineering, API design, and building reliable systems with clean architecture and automation (CI/CD & containerization).**
-
----
-
+![Link](https://aptech.fpt.edu.vn/)
 ### Achievements
 
 - 🥈 **2x Runner-up – FPT Edu Hackathon (Category B)**  
