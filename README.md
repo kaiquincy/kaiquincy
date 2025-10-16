@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Quincy
+## 👋 Hi, I'm Kai Quincy (Khai Quang)
 
 I'm a **Full-Stack Developer** currently in my final year at **FPT Aptech**, where the focus is on building real-world applications rather than academic theory.  
 I'm passionate about **backend engineering, API design, and building reliable systems with clean architecture and automation (CI/CD & containerization).**
@@ -18,9 +18,9 @@ I'm passionate about **backend engineering, API design, and building reliable sy
 
 | Area | Stack / Tools |
 |------|--------------|
-| **Backend Development** | Laravel (PHP), .NET 8 (C#), Flask (Python), RESTful APIs |
-| **Frontend** | React + Tailwind CSS |
-| **Database & DevOps** | MySQL, PostgreSQL, Docker, GitHub Actions (CI/CD) |
+| **Backend Development** | Laravel (PHP), .NET 8 (C#), SpringBoot (Java), Flask (Python), RESTful APIs |
+| **Frontend** | React + Tailwind CSS + Vite |
+| **Database & DevOps** | MySQL, MongoDB, Docker, GitHub Actions (CI/CD) |
 | **Other Skills** | JWT Authentication, Clean Architecture, Team Collaboration, Hackathon Mindset |
 
 ---
@@ -41,10 +41,3 @@ I'm passionate about **backend engineering, API design, and building reliable sy
 
 I'm currently preparing to **transition into the industry as a backend/full-stack developer**.  
 I enjoy **working on backend logic, system design, scalable APIs, and solving real-world problems under time constraints** (just like hackathons).
-
----
-
-### 📬 Let’s Connect
-
-If you're a developer, recruiter, or someone who loves shipping real products — feel free to reach out.
-
