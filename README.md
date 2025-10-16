@@ -4,7 +4,7 @@
 
 - 🥈 **2x Runner-up – FPT Edu Hackathon (Category B)**  
   Built and delivered working MVPs under real hackathon pressure with a cross-functional team.  
-- 🎓 **[![FPT APTECH]](https://aptech.fpt.edu.vn/) – Final Year Student (Software Engineering Track)**  
+- 🎓 **[FPT APTECH](https://aptech.fpt.edu.vn/) – Final Year Student (Software Engineering Track)**  
   Focused on **practical software development using modern stacks** like Laravel, .NET, Flask, React, and MySQL/PostgreSQL.
 
 ---
